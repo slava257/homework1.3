@@ -22,7 +22,7 @@ public class Main {
             System.out.println("человек окончил университет и ему пора искать первую работу");
         }
         System.out.println("задание 3");
-        byte seatingUsed =50;
+        byte seatingUsed =51;
         byte standingRoomUsed =42;
         byte wagonCapacity = 102;
         byte seating = 60;
